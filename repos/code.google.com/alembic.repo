@@ -1,0 +1,29 @@
+{
+    "name":"alembic",
+    "description": "Open Interchange Format for Computer Graphics",
+    "license": "New BSD License",
+
+    "keywords": [
+        "graphics',
+        "pipeline",
+        "framework",
+        "cplusplus"
+    ],
+
+    "repository": {
+        "type": "hg",
+        "url": "https://code.google.com/p/alembic/",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "https://www.alembic.io",
+        "http://opensource.imageworks.com",
+        "http://code.google.com/p/alembic/"
+    ]
+}
