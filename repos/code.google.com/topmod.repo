@@ -1,0 +1,26 @@
+{
+    "name":"topmod",
+    "description": "Topological Mesh Modeler",
+    "license": "GNU GPL v2",
+
+    "keywords": [
+        "mesh',
+        "topology",
+        "geometry"
+    ],
+
+    "repository": {
+        "type": "svn",
+        "url": "http://topmod.googlecode.com/svn/trunk/",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://code.google.com/p/topmod/"
+    ]
+}

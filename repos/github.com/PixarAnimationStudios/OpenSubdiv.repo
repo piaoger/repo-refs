@@ -1,0 +1,25 @@
+{
+    "name":"OpenSubdiv",
+    "description": "An Open-Source subdivision surface library.",
+
+    "keywords": [
+        "Subdivision",
+        "mesh",
+        "Pixar"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PixarAnimationStudios/OpenSubdiv.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://graphics.pixar.com/opensubdiv"
+    ]
+}
