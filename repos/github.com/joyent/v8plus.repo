@@ -1,0 +1,25 @@
+{
+    "name":"v8plus",
+    "description": "Node.js native add-ons in C",
+
+    "keywords": [
+        "node.js",
+        "addon",
+        "c"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joyent/v8plus.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "https://github.com/joyent/v8plus"
+    ],
+}

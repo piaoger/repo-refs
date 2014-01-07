@@ -1,0 +1,25 @@
+{
+    "name":"node",
+    "description": "evented I/O for v8 javascript",
+
+    "keywords": [
+        "node.js",
+        "javascript",
+        "v8"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joyent/node.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://nodejs.org"
+    ],
+}

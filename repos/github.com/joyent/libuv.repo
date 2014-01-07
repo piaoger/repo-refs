@@ -1,0 +1,26 @@
+
+{
+    "name":"libuv",
+    "description": "Cross-platform asychronous I/O",
+
+    "keywords": [
+        "node.js",
+        "asynchronous",
+        "io"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joyent/libuv.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://libuv.org/"
+    ],
+}
