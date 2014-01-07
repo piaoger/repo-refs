@@ -1,0 +1,29 @@
+{
+    "name":"chromiumembedded",
+    "description": "A simple framework for embedding chromium browser windows in other applications.",
+    "license": "New BSD License",
+
+    "keywords": [
+        "Chromium',
+        "Embedded",
+        "Browser",
+        "framework",
+        "cplusplus"
+    ],
+
+    "repository": {
+        "type": "svn",
+        "url": "http://chromiumembedded.googlecode.com/svn/trunk",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://www.magpcss.org/ceforum/",
+        "http://code.google.com/p/chromiumembedded/"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name":"alembic",
+    "description": "CProxyV8 provide an easy way to expose properties and methods from C++ classes to Java Script using V8 engine",
+    "license": "New BSD License",
+
+    "keywords": [
+        "v8',
+        "javascript",
+        "template",
+        "cplusplus"
+    ],
+
+    "repository": {
+        "type": "svn",
+        "url": "http://cproxyv8.googlecode.com/svn/trunk/",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "https://code.google.com/p/cproxyv8/"
+    ]
+}

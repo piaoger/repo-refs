@@ -1,0 +1,27 @@
+{
+    "name":"alembic",
+    "description": "C++ toolkit for extending the Google v8 JavaScript engine",
+    "license": "New BSD License",
+
+    "keywords": [
+        "v8",
+        "javascript",
+        "cplusplus"
+    ],
+
+    "repository": {
+        "type": "svn",
+        "url": "http://v8-juice.googlecode.com/svn/",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://blog.s11n.net/",
+        "http://code.google.com/p/v8-juice/"
+    ]
+}
