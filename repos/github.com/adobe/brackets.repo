@@ -1,0 +1,24 @@
+{
+    "name":"brackets",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS.",
+
+    "keywords": [
+        "editor",
+        "libcef"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adobe/brackets.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://brackets.io"
+    ]
+}

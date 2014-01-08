@@ -1,0 +1,27 @@
+{
+    "name":"AbFab3D",
+    "description": "3D Print toolkit",
+
+    "keywords": [
+        "3d print",
+        "shapejs",
+        "shapeways",
+        "java"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AbFab3D/AbFab3D.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://www.abfab3d.com"，
+        “http://shapejs.shapeways.com/“
+    ]
+}

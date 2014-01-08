@@ -1,0 +1,23 @@
+{
+    "name":"OpenSubdiv",
+    "description": "OpenImageIO library.",
+
+    "keywords": [
+        "imageio"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OpenImageIO/oiio.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://www.openimageio.org"
+    ]
+}

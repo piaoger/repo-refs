@@ -1,0 +1,24 @@
+{
+    "name":"qhull",
+    "description": "A library computing the convex hull.",
+
+    "keywords": [
+        "convex hull"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://git.gitorious.org/qhull/qhull.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "https://gitorious.org/qhull",
+        "http://www.qhull.org/"
+    ]
+}

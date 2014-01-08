@@ -1,0 +1,25 @@
+{
+    "name":"brackets-shell",
+    "description": "CEF3-based application shell for Brackets.",
+
+    "keywords": [
+        "brackets",
+        "cef3",
+        "shell"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adobe/brackets-shell.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://brackets.io"
+    ]
+}

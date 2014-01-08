@@ -1,0 +1,24 @@
+{
+    "name":"v8.net",
+    "description": "A fairly non-abstracted wrapper for Google V8 JavaScript engine.",
+
+    "keywords": [
+        "v8",
+        ".net"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://git01.codeplex.com/v8dotnet",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://v8dotnet.codeplex.com/"
+    ]
+}

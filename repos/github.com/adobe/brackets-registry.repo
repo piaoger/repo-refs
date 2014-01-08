@@ -1,0 +1,25 @@
+{
+    "name":"brackets-registry",
+    "description": "A registry system for hosting Brackets extensions powered by node.js",
+
+    "keywords": [
+        "brackets",
+        "extension",
+        "registry"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adobe/brackets-registry.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://brackets.io"
+    ]
+}

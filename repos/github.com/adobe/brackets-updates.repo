@@ -1,0 +1,24 @@
+{
+    "name":"brackets-updates",
+    "description": "Update info and deployment scripts for Brackets/Edge Code ",
+
+    "keywords": [
+        "brackets",
+        "updates"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adobe/brackets-updates.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://brackets.io"
+    ]
+}

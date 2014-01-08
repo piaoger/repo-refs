@@ -1,0 +1,25 @@
+{
+    "name":"v8",
+    "description": "v8 JavaScript Engine.",
+
+    "keywords": [
+        "javscript"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/v8/v8.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://code.google.com/p/v8/",
+        "https://developers.google.com/v8/intro",
+        "https://developers.google.com/v8/embed"
+    ]
+}

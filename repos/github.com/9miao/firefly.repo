@@ -1,0 +1,26 @@
+
+{
+    "name":"firefly",
+    "description": "game server distributed framework",
+
+    "keywords": [
+        "python",
+        "game",
+        "distributed"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/9miao/firefly.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://firefly.9miao.com/"
+    ]
+}
