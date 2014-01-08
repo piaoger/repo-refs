@@ -1,6 +1,6 @@
 {
     "name":"openscad",
-    "description": "The Programmers Solid 3D CAD Modeller ",
+    "description": "The Programmers Solid 3D CAD Modeller",
 
     "keywords": [
         "csg",
@@ -20,6 +20,5 @@
 
     "linkes": {
         "Homepage": "http://openscad.org"
-        "Open Cascade":"http://www.opencascade.org/"
     }
 }

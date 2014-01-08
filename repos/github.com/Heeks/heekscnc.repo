@@ -1,7 +1,7 @@
 
 {
     "name":"heekscnc",
-    "description": "A free and open source cross-platform 3D CAD application",
+    "description": "An CAM add-on for HeeksCAD",
 
     "keywords": [
         "Open Cascade",
@@ -21,7 +21,6 @@
 
     "linkes": {
         "Homepage": "http://heeks.net",
-        "Wiki":"https://github.com/Heeks/heekscnc/wiki",
         "Open Cascade":"http://www.opencascade.org/"
     }
 }
