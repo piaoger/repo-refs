@@ -1,0 +1,24 @@
+{
+    "name":"node-addon-layer-test",
+    "description": "A small module to test the addon-layer",
+
+    "keywords": [
+        "node.js",
+        "addon",
+        "JSAPI"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tjfontaine/node-addon-layer-test.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name":"pomelo",
+    "description": "A fast,scalable,distributed game server framework for Node.js.",
+
+    "keywords": [
+        "game",
+        "node.js",
+        "framework"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NetEase/pomelo.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://pomelo.netease.com",
+        "Source": "http://github.com/NetEase/pomelo",
+        "Wiki": "https://github.com/NetEase/pomelo/wiki/"
+    }
+}

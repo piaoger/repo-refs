@@ -1,0 +1,27 @@
+{
+    "name":"packer",
+    "description": "Packer is a tool for building identical machine images for multiple platforms from a single source configuration.",
+
+    "keywords": [
+        "image",
+        "ec2",
+        "virtualbox",
+        "vmware"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mitchellh/packer.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.packer.io",
+        "Document": "http://www.packer.io/docs"
+    }
+}

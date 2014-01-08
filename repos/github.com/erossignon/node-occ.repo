@@ -1,0 +1,26 @@
+{
+    "name":"node-occ",
+    "description": "OpenCascade nodejs extension for solid modeling.",
+
+    "keywords": [
+        "webgl",
+        "Open Cascade",
+        "erlang"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/erossignon/node-occ.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Shapesmith": "http://www.shapesmith.net",
+        "Open Cascade":"http://www.opencascade.org/"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name":"twister-core",
+    "description": "twister - p2p microblogging.",
+
+    "keywords": [
+        "p2p",
+        "twister",
+        "microblog"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/miguelfreitas/twister-core.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "ttp://www.twister.net.co"
+    ]
+}

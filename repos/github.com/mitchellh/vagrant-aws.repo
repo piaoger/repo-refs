@@ -1,0 +1,25 @@
+{
+    "name":"vagrant-aws",
+    "description": "Use Vagrant to manage your EC2 and VPC instances.",
+
+    "keywords": [
+        "vagrant",
+        "ec2",
+        "vpc"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mitchellh/vagrant-aws.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "vagrant": "http://www.vagrantup.com/"
+    }
+}

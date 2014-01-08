@@ -1,0 +1,27 @@
+
+{
+    "name":"heekscnc",
+    "description": "A free and open source cross-platform 3D CAD application",
+
+    "keywords": [
+        "Open Cascade",
+        "cad"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Heeks/heekscnc.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://heeks.net",
+        "Wiki":"https://github.com/Heeks/heekscnc/wiki",
+        "Open Cascade":"http://www.opencascade.org/"
+    }
+}

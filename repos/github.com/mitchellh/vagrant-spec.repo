@@ -1,0 +1,24 @@
+{
+    "name":"vagrant-spec",
+    "description": "Tool and library for testing Vagrant plugins.",
+
+    "keywords": [
+        "vagrant",
+        "test"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mitchellh/vagrant-spec.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "vagrant": "http://www.vagrantup.com/"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name":"heekscad",
+    "description": "HeeksCNC is an CAM add-on for HeeksCAD",
+
+    "keywords": [
+        "Open Cascade",
+        "cad"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Heeks/heekscad.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://heeks.net",
+        "Wiki":"https://github.com/Heeks/heekscad/wiki",
+        "Open Cascade":"http://www.opencascade.org/"
+    }
+}

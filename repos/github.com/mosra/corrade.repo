@@ -1,0 +1,26 @@
+{
+    "name":"corrade",
+    "description": "Corrade is multiplatform utility library written in C++11.",
+
+    "keywords": [
+        "multiplatform",
+        "emscripten",
+        "framework"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mosra/corrade.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://mosra.cz/blog/corrade.php",
+        "Document": "http://mosra.cz/blog/corrade-doc/"
+    }
+}

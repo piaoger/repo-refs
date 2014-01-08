@@ -1,0 +1,25 @@
+{
+    "name":"lathe",
+    "description": "Experimental boolean mesh library using BSP trees",
+
+    "keywords": [
+        "mesh",
+        "boolean",
+        "bsp"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bjnortier/lathe.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.shapesmith.net"
+    }
+}

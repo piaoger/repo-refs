@@ -1,0 +1,25 @@
+{
+    "name":"node-addon-layer",
+    "description": "A thin C API to create node binary addons with, inspired by JSAPI",
+
+    "keywords": [
+        "node.js",
+        "addon",
+        "JSAPI"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tjfontaine/node-addon-layer.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Document": "http://tjfontaine.github.io/node-addon-layer/"
+    }
+}

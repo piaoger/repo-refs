@@ -1,0 +1,24 @@
+{
+    "name":"firefly",
+    "description": "Gcodetools Inkscape exporting plug-in",
+
+    "keywords": [
+        "gcode",
+        "inkscape"
+    ],
+
+    "repository": {
+        "type": "bzr",
+        "url": "lp:gcodetools",
+
+        "branches": [
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "http://www.cnc-club.ru/gcodetools",
+        "https://code.launchpad.net/gcodetools"
+    ]
+}

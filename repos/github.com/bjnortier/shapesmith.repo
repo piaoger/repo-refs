@@ -1,0 +1,25 @@
+{
+    "name":"shapesmith",
+    "description": "Open source HTML5 3D modelling",
+
+    "keywords": [
+        "webgl",
+        "Open Cascade",
+        "erlang"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bjnortier/shapesmith.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.shapesmith.net"
+    }
+}

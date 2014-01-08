@@ -1,0 +1,23 @@
+{
+    "name":"skynet",
+    "description": "a framework for distributed services in Go.",
+
+    "keywords": [
+        "golang",
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skynetservices/skynet.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+
+    }
+}

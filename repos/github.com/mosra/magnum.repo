@@ -1,0 +1,25 @@
+{
+    "name":"magnum",
+    "description": "C++11 and OpenGL 2D/3D graphics engine.",
+
+    "keywords": [
+        "graphics",
+        "OpenGL"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mosra/magnum.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://mosra.cz/blog/magnum.php",
+        "Document": "http://mosra.cz/blog/magnum-doc/"
+    }
+}

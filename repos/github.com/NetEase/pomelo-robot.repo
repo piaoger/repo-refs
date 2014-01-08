@@ -1,0 +1,27 @@
+{
+    "name":"pomelo robot",
+    "description": "the client test framework for websocket .",
+
+    "keywords": [
+        "game",
+        "node.js",
+        "framework"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NetEase/pomelo-robot.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://pomelo.netease.com",
+        "Source": "http://github.com/NetEase/pomelo",
+        "Wiki": "https://github.com/NetEase/pomelo/wiki/"
+    }
+}

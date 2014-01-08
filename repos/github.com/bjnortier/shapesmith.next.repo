@@ -1,0 +1,25 @@
+{
+    "name":"shapesmith.next",
+    "description": "Next-generation Shapesmith",
+
+    "keywords": [
+        "webgl",
+        "mesh",
+        "bsp"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bjnortier/shapesmith.next.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.shapesmith.net"
+    }
+}
