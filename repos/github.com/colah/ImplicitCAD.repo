@@ -1,0 +1,27 @@
+
+{
+    "name":"heekscnc",
+    "description": "A math-inspired CAD program in haskell",
+
+    "keywords": [
+        "openscad",
+        "haskell",
+        "ExtOpenSCAD"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/colah/ImplicitCAD.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.implicitcad.org/",
+        "thingiverse":"http://www.thingiverse.com/tag:ImplicitCAD"
+    }
+}

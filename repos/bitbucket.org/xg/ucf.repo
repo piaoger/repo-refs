@@ -1,0 +1,26 @@
+{
+    "name":"ucf",
+    "description": "C++ implementation of Processing",
+    "license": "New BSD License",
+
+    "keywords": [
+        "cplusplus",
+        "processing"
+    ],
+
+    "repository": {
+        "type": "hg",
+        "url": "https://bitbucket.org/xg/ucf",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Source":"https://bitbucket.org/xg/ucf",
+        "processing":"http://processing.org/"
+    ]
+}

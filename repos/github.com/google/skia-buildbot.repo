@@ -1,0 +1,26 @@
+{
+    "name":"skia-buildbot",
+    "description": "Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.",
+
+    "keywords": [
+        "skia",
+        "buildbot"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google/skia-buildbot.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Document": "https://sites.google.com/site/skiadocs/",
+        "Wiki":"http://code.google.com/p/skia/wiki/DocRoot"
+        "skia.googlesource.com" : "https://skia.googlesource.com/skia"
+    ]
+}

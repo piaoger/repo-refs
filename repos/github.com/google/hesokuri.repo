@@ -1,0 +1,26 @@
+{
+    "name":"hesokuri",
+    "description": "Distributed Git repo backup and duplication daemon.",
+
+    "keywords": [
+        "clojure",
+        "git",
+        "backup",
+        "duplication",
+        "daemon"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google/hesokuri.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+    ]
+}

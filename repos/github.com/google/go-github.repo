@@ -1,0 +1,25 @@
+{
+    "name":"go-github",
+    "description": "Go library for accessing the GitHub API.",
+
+    "keywords": [
+        "golang",
+        "github"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google/go-github.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Github API": "http://developer.github.com/v3/",
+        "Document"：“http://godoc.org/github.com/google/go-github/github”
+    ]
+}

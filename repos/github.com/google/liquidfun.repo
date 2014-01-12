@@ -1,0 +1,25 @@
+{
+    "name":"liquidfun",
+    "description": "2D physics engine for games.",
+
+    "keywords": [
+        "cplusplus",
+        "game",
+        "engine"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google/liquidfun.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage": "http://google.github.io/liquidfun"
+    ]
+}

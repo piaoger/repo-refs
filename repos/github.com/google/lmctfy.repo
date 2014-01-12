@@ -1,0 +1,26 @@
+{
+    "name":"lmctfy",
+    "description": "Google container stack, which provides Linux application containers.",
+
+    "keywords": [
+        "c++",
+        "linux",
+        "container"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google/lmctfy.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Github API": "http://developer.github.com/v3/",
+        "Document"：“http://godoc.org/github.com/google/go-github/github”
+    ]
+}

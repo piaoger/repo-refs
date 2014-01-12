@@ -1,0 +1,24 @@
+{
+    "name":"traceur-compiler",
+    "description": "Traceur is a JavaScript.next-to-JavaScript-of-today compiler.",
+
+    "keywords": [
+        "JavaScript.next",
+        "sourcemap",
+        "node.js"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google/traceur-compiler.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+    ]
+}

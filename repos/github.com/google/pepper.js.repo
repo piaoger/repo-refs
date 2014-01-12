@@ -1,0 +1,25 @@
+{
+    "name":"pepper.js",
+    "description": "Pepper applications as Native Client or JavaScript.",
+
+    "keywords": [
+        "pepper",
+        "javascript",
+        "emscripten"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google/pepper.js.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage": "http://trypepperjs.appspot.com"
+    ]
+}

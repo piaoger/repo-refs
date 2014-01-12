@@ -1,0 +1,23 @@
+{
+    "name":"qpp",
+    "description": "Querypoint Debugging Prototype.",
+
+    "keywords": [
+        "debuggin"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google/qpp.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Overview": "http://google.github.com/qpp/"
+    ]
+}
