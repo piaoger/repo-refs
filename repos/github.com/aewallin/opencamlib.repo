@@ -1,0 +1,24 @@
+{
+    "name":"opencamlib",
+    "description": "open source computer aided manufacturing algorithms library.",
+
+    "keywords": [
+        "cam",
+        "cutting"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aewallin/opencamlib.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://www.anderswallin.net/cam/"
+    ]
+}

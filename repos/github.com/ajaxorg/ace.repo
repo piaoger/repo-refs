@@ -1,0 +1,26 @@
+{
+    "name":"ace",
+    "description": "Ace (Ajax.org Cloud9 Editor) ",
+
+    "keywords": [
+        "javascript",
+        "ide",
+        "cloud9"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ajaxorg/ace.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://ace.c9.io",
+        "c9.io":"c9.io"：“http://c9.io”
+    ]
+}

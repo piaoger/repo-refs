@@ -1,0 +1,26 @@
+{
+    "name":"libarea",
+    "description": "A library of functions for pocketing and profiling operations in HeeksCNC.",
+
+    "keywords": [
+        "toolpaths",
+        "pocket",
+        "cnc"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Heeks/libarea.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://heeks.net",
+        "kbool":"http://boolean.klaasholwerda.nl/bool.html"
+    }
+}

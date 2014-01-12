@@ -1,0 +1,25 @@
+{
+    "name":"libcutsim",
+    "description": "Minimal cutting simulation with python bindings.",
+
+    "keywords": [
+        "simulation",
+        "cutting"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aewallin/libcutsim.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://www.anderswallin.net/cam/",
+        "openscam":"http://openscam.com/"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name":"AFNetworking",
+    "description": "A delightful iOS and OS X networking framework.",
+
+    "keywords": [
+        "network",
+        "library",
+        "ios",
+        "macosx"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AIM360/AFNetworking.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Origin":"https://github.com/AFNetworking/AFNetworking"
+    ]
+}

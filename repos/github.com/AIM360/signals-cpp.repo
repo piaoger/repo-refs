@@ -1,0 +1,25 @@
+{
+    "name":"signals-cpp",
+    "description": "Provide a very simple C++ interface for doing signal-slot-connections in an easy but thread-safe manner.",
+
+    "keywords": [
+        "signal-slot",
+        "cplusplus",
+        "threadsafe"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AIM360/signals-cpp.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Origin":"https://github.com/Kosta-Github/signals-cpp"
+    ]
+}

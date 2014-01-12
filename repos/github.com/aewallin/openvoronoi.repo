@@ -1,0 +1,24 @@
+{
+    "name":"openvoronoi",
+    "description": "2D voronoi diagram for point and line-segment sites using incremental topology-oriented algorithm",
+
+    "keywords": [
+        "voronoi",
+        "2d"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aewallin/openvoronoi.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://www.anderswallin.net/cam/"
+    ]
+}

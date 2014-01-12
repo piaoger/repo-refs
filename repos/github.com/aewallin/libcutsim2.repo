@@ -1,0 +1,25 @@
+{
+    "name":"libcutsim2",
+    "description": "cutting simulation library, version 2 .",
+
+    "keywords": [
+        "simulation",
+        "cutting"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aewallin/libcutsim2.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://www.anderswallin.net/cam/",
+        "openscam":"http://openscam.com/"
+    ]
+}

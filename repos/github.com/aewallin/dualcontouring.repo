@@ -1,0 +1,25 @@
+{
+    "name":"libcutsim",
+    "description": "Dual Contouring Implementation in C++, by Tao Ju.",
+
+    "keywords": [
+        "Dual Contouring",
+        "cutting"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aewallin/dualcontouring.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://www.anderswallin.net/cam/",
+        "dualcontouring":http://sourceforge.net/projects/dualcontouring/"
+    ]
+}

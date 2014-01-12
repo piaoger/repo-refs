@@ -1,0 +1,25 @@
+{
+    "name":"cloud9",
+    "description": "The modern IDE built on Node, JavaScript and HTML5. This is the OSS component of the broader service option at c9.io.",
+
+    "keywords": [
+        "javascript",
+        "ide",
+        "cloud"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ajaxorg/cloud9.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "c9.io"：“http://c9.io”
+    ]
+}

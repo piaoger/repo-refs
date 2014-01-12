@@ -1,0 +1,24 @@
+{
+    "name":"randompolygon",
+    "description": "Random polygon generator using CGAL 2-opt algorithm. With python bindings.",
+
+    "keywords": [
+        "CAGL",
+        "random"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aewallin/randompolygon.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://www.anderswallin.net/cam/"
+    ]
+}

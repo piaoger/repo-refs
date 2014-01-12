@@ -1,0 +1,24 @@
+{
+    "name":"rbush",
+    "description": "RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles.",
+
+    "keywords": [
+        "javascript",
+        "rtree"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AIM360/rbush.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Origin":"https://github.com/mourner/rbush"
+    ]
+}
