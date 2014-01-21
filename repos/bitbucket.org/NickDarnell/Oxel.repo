@@ -1,0 +1,31 @@
+{
+    "name":"Oxel",
+    "description": "Oxel is a tool for generating conservative low polygon occluder proxies for 3D geometry that are cheap to render and can be used for occlusion culling in games.",
+    "license": "The MIT License (MIT)",
+
+    "keywords": [
+        "polygon",
+        "occluder"
+    ],
+
+    "repository": {
+        "type": "hg",
+        "url": "https://bitbucket.org/xg/ucf",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://www.nickdarnell.com/Oxel",
+        "Oxel - A Tool for Occluder Generation":"http://www.nickdarnell.com/2012/04/oxel-a-tool-for-occluder-generation",
+        "Robust Inside and Outside Solid Voxelization":"http://www.nickdarnell.com/2011/09/robust-inside-and-outside-solid-voxelization",
+        "Hierarchical Z-Buffer Occlusion Culling":"http://www.nickdarnell.com/2010/06/hierarchical-z-buffer-occlusion-culling",
+        "Hierarchical Z-Buffer Occlusion Culling - Shadows":"http://www.nickdarnell.com/2010/07/hierarchical-z-buffer-occlusion-culling-shadows",
+        "Hierarchical Z-Buffer Occlusion Culling - Generating Occlusion Volumes":"http://www.nickdarnell.com/2011/06/hierarchical-z-buffer-occlusion-culling-generating-occlusion-volumes",
+        "":""
+    ]
+}

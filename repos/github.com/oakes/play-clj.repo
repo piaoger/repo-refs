@@ -1,0 +1,24 @@
+{
+    "name":"play-clj",
+    "description": "A Clojure game library",
+
+    "keywords": [
+        "clojure",
+        "game"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "hhttps://github.com/oakes/play-clj.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "libgdx":"http://libgdx.badlogicgames.com/"
+    }
+}

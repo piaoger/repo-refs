@@ -1,0 +1,24 @@
+
+{
+    "name":"dg",
+    "description": "DalgiEngine - Sweet 3D Game Engine",
+
+    "keywords": [
+        "Open Cascade",
+        "game"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zho7611/dg.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

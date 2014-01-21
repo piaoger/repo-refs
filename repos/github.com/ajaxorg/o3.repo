@@ -1,0 +1,27 @@
+{
+    "name":"o3",
+    "description": "Ajax.org O3 is a binary component framework to allow C++ components to be easily used in JS environments.",
+
+    "keywords": [
+        "cplusplus",
+        "node.js",
+        "browser",
+        "addon",
+        "npapi"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ajaxorg/o3.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage"：“http://www.ajax.org”
+    ]
+}

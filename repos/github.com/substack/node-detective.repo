@@ -1,0 +1,25 @@
+{
+    "name":"node-detective",
+    "description": "Find all calls to require() no matter how crazily nested using a proper walk of the AST.",
+
+    "keywords": [
+        "node.js",
+        "module",
+        "dependency"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/substack/node-detective.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://substack.net/"
+    ]
+}
