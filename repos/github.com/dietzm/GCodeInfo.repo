@@ -1,0 +1,23 @@
+{
+    "name":"GCodeInfo",
+    "description": "This is a small command line tool to analyse gcodes.",
+
+    "keywords": [
+        "gcode",
+        "java"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dietzm/GCodeInfo.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

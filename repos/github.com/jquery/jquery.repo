@@ -1,0 +1,23 @@
+{
+    "name":"jquery",
+    "description": "Node.js native add-ons in C",
+
+    "keywords": [
+        "https://github.com/jquery/jquery",
+        "javascript"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jquery/jquery.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+    ]
+}
