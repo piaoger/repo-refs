@@ -1,0 +1,26 @@
+{
+    "name":"toxiclibs.clj",
+    "description": "Building blocks for computational design (Java & Processing)",
+    "license": "GNU Lesser GPL",
+
+    "keywords": [
+        "processing",
+        "java"
+    ],
+
+    "repository": {
+        "type": "hg",
+        "url": "https://bitbucket.org/postspectacular/toxiclibs",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://toxiclibs.org/",
+        "processing":"http://processing.org/"
+    ]
+}

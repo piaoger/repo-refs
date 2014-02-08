@@ -1,0 +1,23 @@
+{
+    "name":"Mandoline",
+    "description": "A lightning-fast program to slice 3D STL files into GCode tool paths for FDM 3D printing.",
+
+    "keywords": [
+        "slice",
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/revarbat/Mandoline.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "wiki":"https://github.com/revarbat/Mandoline/wiki"
+    }
+}

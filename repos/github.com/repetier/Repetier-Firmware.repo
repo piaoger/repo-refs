@@ -1,0 +1,25 @@
+{
+    "name":"Repetier-Firmware",
+    "description": "Firmware for Arduino based RepRap 3D printer.",
+
+    "keywords": [
+        "firmware",
+        "repetier"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/repetier/Repetier-Firmware.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.repetier.com",
+        "Documents":"http://www.repetier.com/documentation/repetier-firmware/"
+    }
+}

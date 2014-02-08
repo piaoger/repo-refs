@@ -1,0 +1,27 @@
+{
+    "name":"sculptgl",
+    "description": "A WebGL sculpting stuff.",
+
+    "keywords": [
+        "webgl",
+        "three.js",
+        "sculpt"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stephomi/sculptgl.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage"：“http://stephaneginier.com/sculptgl/”,
+        "Sketchfab":"http://sculptfab.com/",
+        "meet stephane":"http://blog.sketchfab.com/post/74174910390/meet-stephane-creator-of-sculptgl"
+    ]
+}

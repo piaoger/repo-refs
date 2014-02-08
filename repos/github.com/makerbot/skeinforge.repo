@@ -1,0 +1,28 @@
+{
+    "name":"skeinforge",
+    "description": "Skeinforge is a tool chain composed of Python scripts that converts your 3D model into G-Code instructions for RepRap.",
+
+    "keywords": [
+        "skeinforge",
+        "makerbot",
+        "gcode",
+        "RepRap"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/makerbot/skeinforge.git",
+
+        "branches": [
+            "master",
+            "Version2.3"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.makerbot.com",
+        "Skeinforge":"http://fabmetheus.crsndoo.com/"
+    }
+}
