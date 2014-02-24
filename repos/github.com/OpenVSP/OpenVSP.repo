@@ -1,0 +1,28 @@
+{
+    "name":"OpenVSP",
+    "description": "A parametric aircraft geometry tool.",
+
+    "keywords": [
+        "NASA",
+        "parametric",
+        "aircraft",
+        "Vehicle",
+        "aircraft",
+        "Sketch Pad"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OpenVSP/OpenVSP.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.openvsp.org"
+    }
+}

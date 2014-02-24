@@ -1,0 +1,28 @@
+{
+    "name":"famous-torque-demo",
+    "description": "Famous Torque Demo.",
+
+    "keywords": [
+        "famous",
+        "css",
+        "webgl",
+        "canvas"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/EricLesch/famous-torque-demo.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        “Homepage": "http://famo.us",
+        "torque demo":"http://demo.famo.us/torque/",
+        "one to many demo":"http://demo.famo.us/one-to-many/"
+    }
+}

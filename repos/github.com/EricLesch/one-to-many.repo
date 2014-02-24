@@ -1,0 +1,28 @@
+{
+    "name":"one-to-many",
+    "description": "Famous One to Many Demo.",
+
+    "keywords": [
+        "famous",
+        "css",
+        "webgl",
+        "canvas"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/EricLesch/one-to-many.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        “Homepage": "http://famo.us",
+        "torque demo":"http://demo.famo.us/torque/",
+        "one to many demo":"http://demo.famo.us/one-to-many/"
+    }
+}
