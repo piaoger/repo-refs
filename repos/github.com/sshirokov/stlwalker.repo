@@ -1,0 +1,23 @@
+{
+    "name":"stlwalker",
+    "description": "Scriptable STL 3D model processor.",
+
+    "keywords": [
+        "STL"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sshirokov/stlwalker.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+
+    ]
+}

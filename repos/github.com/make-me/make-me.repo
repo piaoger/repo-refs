@@ -1,0 +1,23 @@
+{
+    "name":"skeinforge",
+    "description": "Tools and an API for easy 3D Printing.",
+
+    "keywords": [
+        "3d print"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/make-me/make-me.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+
+    }
+}

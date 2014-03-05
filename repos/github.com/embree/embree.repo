@@ -1,0 +1,28 @@
+{
+    "name":"embree",
+    "description": "Embree ray tracing kernels repository.",
+
+    "keywords": [
+        "raytracer",
+        "Intel"
+    ],
+
+    "license": "Apache",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/embree/embree.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "paper": "http://software.intel.com/en-us/articles/embree-highly-optimized-visibility-algorithms-for-monte-carlo-ray-tracing",
+        "paper_cn:"http://software.intel.com/zh-cn/articles/embree-highly-optimized-visibility-algorithms-for-monte-carlo-ray-tracing"
+        “embree in Simlab Composer”：“http://software.intel.com/en-us/forums/topic/394096”
+    }
+}

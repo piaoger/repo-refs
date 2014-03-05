@@ -1,0 +1,25 @@
+
+{
+    "name":"emscripten-qt",
+    "description": "A library computing the convex hull.",
+
+    "keywords": [
+        "qt",
+        "emscripten"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://git.gitorious.org/qt/emscripten-qt.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+       "Homepage": "https://gitorious.org/qt"
+    ]
+}

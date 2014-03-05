@@ -1,0 +1,25 @@
+{
+    "name":"s3gof3r",
+    "description": "Fast, concurrent, streaming access to Amazon S3, including a CLI.",
+
+    "keywords": [
+        "s3",
+        "golang",
+        "streaming",
+        "concurrent"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rlmcpherson/s3gof3r.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+    ]
+}
