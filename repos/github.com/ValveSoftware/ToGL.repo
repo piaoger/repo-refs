@@ -1,0 +1,24 @@
+
+{
+    "name":"ToGL",
+    "description": "Direct3D to OpenGL abstraction layer",
+
+    "keywords": [
+        "Direct3D",
+        "OpenGL"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ValveSoftware/ToGL",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

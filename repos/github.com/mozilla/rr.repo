@@ -1,0 +1,25 @@
+{
+    "name":"rr",
+    "description": "Record and Replay Framework for recording and replaying execution of applications (trees of processes and threads)..",
+
+    "keywords": [
+        "record",
+        "replay",
+        "cplusplus"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mozilla/rr.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://rr-project.org."
+    }
+}

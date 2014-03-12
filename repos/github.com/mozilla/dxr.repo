@@ -1,0 +1,25 @@
+{
+    "name":"dxr",
+    "description": "A Code Search and Cross-Reference Tool.",
+
+    "keywords": [
+        "record",
+        "replay",
+        "cplusplus"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mozilla/dxr.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://rr-project.org."
+    }
+}
