@@ -1,0 +1,24 @@
+{
+    "name":"exo_browser",
+    "description": "The Scriptable Browser Platform.",
+
+    "keywords": [
+        "browser",
+        "chromium"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/breach/exo_browser.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://breach.github.io/exo_browser"
+    ]
+}

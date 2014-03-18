@@ -1,0 +1,25 @@
+{
+    "name":"mozjpeg",
+    "description": "Provide a production-quality JPEG encoder that improves compression while maintaining compatibility .",
+
+    "keywords": [
+        "jpeg"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mozilla/mozjpeg.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "blog":"https://blog.mozilla.org/research/2014/03/05/introducing-the-mozjpeg-project/",
+        "jpeg-turbo":"http://libjpeg-turbo.virtualgl.org/",
+
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name":"Drawpile",
+    "description": "A collaborative drawing program.",
+
+    "keywords": [
+        "collaborative",
+        "drawing"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/callaa/Drawpile.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://drawpile.sourceforge.net/"
+    ]
+}

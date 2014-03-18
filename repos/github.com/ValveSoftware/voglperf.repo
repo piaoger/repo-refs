@@ -1,0 +1,25 @@
+
+{
+    "name":"voglperf",
+    "description": "Benchmarking tool for Linux OpenGL games. Spews frame information, logs frametimes.",
+
+    "keywords": [
+        "Benchmark",
+        "OpenGL"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ValveSoftware/voglperf.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}
+

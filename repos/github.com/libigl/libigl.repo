@@ -1,0 +1,24 @@
+{
+    "name":"libigl",
+    "description": "A simple processing c++ library",
+
+    "keywords": [
+        "gometry procesing",
+        "IDE"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/libigl/libigl.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://www.lighttable.com"
+    }
+}

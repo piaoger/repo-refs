@@ -1,0 +1,25 @@
+{
+    "name":"fluidsim",
+    "description": "GPU fluid simulation.",
+
+    "keywords": [
+        "quad mesh",
+        "normal computation"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/prideout/fluidsim.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage": "http://prideout.net",
+        "demo":"http://vimeo.com/20863998"
+    ]
+}

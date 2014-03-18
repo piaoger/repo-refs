@@ -1,0 +1,25 @@
+{
+    "name":"oryol",
+    "description": "Experimental C++11 multi-platform 3D engine.",
+
+    "keywords": [
+        "3d",
+        "pnacl",
+        "emscripten",
+        "multi-platform"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/floooh/oryol.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+    ]
+}

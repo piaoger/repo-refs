@@ -1,0 +1,24 @@
+{
+    "name":"libgdx",
+    "description": "Android/iOS/HTML5/desktop game development framework",
+
+    "keywords": [
+        "game",
+        "framework"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/libgdx/libgdx.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://libgdx.badlogicgames.com/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name":"CuraEngine",
+    "description": "Per-Face Texture Mapping for Production Rendering.",
+
+    "keywords": [
+        "DisneyAnimation",
+        "Texture Mapping"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wdas/ptex.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://ptex.us/"
+    ]
+}

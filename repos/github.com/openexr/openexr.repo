@@ -1,0 +1,24 @@
+{
+    "name":"fluidsim",
+    "description": "OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic for use in computer imaging applications.",
+
+    "keywords": [
+        "HDR",
+        "image"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/openexr/openexr.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage": "http://openexr.org/"
+    ]
+}

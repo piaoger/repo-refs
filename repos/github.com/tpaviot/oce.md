@@ -1,4 +1,3 @@
-
 {
     "name":"oce",
     "description": "Open CASCADE Community Edition: patches/improvements/experiments contributed by users over the official Open CASCADE library",

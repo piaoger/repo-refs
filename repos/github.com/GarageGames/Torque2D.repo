@@ -1,0 +1,24 @@
+{
+    "name":"Torque2D",
+    "description": "MIT Licensed Open Source version of Torque 2D from GarageGames.",
+
+    "keywords": [
+        "game",
+        "2d",
+        "engine"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GarageGames/Torque2D.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+    ]
+}

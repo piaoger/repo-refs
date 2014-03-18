@@ -1,0 +1,25 @@
+{
+    "name":"knotgl",
+    "description": "Mathematical Knots in WebGL .",
+
+    "keywords": [
+        "knot",
+        "WebGL"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/prideout/knotgl.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage": "http://prideout.net",
+        "demo":"http://github.prideout.net/knotgl"
+    ]
+}

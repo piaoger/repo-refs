@@ -1,0 +1,23 @@
+{
+    "name":"Horde3D",
+    "description": "Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.",
+
+    "keywords": [
+        "game",
+        "engine"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/horde3d/Horde3D.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

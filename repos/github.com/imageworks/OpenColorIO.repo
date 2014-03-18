@@ -1,0 +1,22 @@
+{
+    "name":"OpenColorIO",
+    "description": "A color management framework for visual effects and animation.",
+
+    "keywords": [
+        "color management"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/imageworks/OpenColorIO.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

@@ -1,16 +1,15 @@
-
 {
-    "name":"ToGL",
-    "description": "Direct3D to OpenGL abstraction layer",
+    "name":"js-nacl",
+    "description": "Pure-Javascript Emscripten-compiled NaCl routines.",
 
     "keywords": [
-        "Direct3D",
-        "OpenGL"
+        "emscripten",
+        "nacl"
     ],
 
     "repository": {
         "type": "git",
-        "url": "https://github.com/ValveSoftware/ToGL.git",
+        "url": "https://github.com/tonyg/js-nacl.git",
 
         "branches": [
             "master"

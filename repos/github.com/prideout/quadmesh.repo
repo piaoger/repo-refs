@@ -1,0 +1,25 @@
+{
+    "name":"quadmesh",
+    "description": "Animated quad meshes and smooth normal computation with Modern OpenGL.",
+
+    "keywords": [
+        "quad mesh",
+        "normal computation"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/prideout/quadmesh.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage": "http://prideout.net",
+        "Introduction":"http://github.prideout.net/quad-meshes/"
+    ]
+}

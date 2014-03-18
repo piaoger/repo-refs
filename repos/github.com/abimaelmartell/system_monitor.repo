@@ -1,0 +1,26 @@
+
+{
+    "name":"system_monitor",
+    "description": "A easy to use, web interface to monitor your server resources like memory, cpu, disk usage and network information..",
+
+    "keywords": [
+        "system monitor",
+        "mongoose",
+        "sigar"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abimaelmartell/system_monitor.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+         "Homepage":"http://abimaelmartell.com/blog/system-monitor.html"
+    }
+}

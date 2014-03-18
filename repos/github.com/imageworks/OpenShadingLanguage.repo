@@ -1,0 +1,23 @@
+{
+    "name":"OpenShadingLanguage",
+    "description": "Advanced shading language for production GI renderers.",
+
+    "keywords": [
+        "osl"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/imageworks/OpenShadingLanguage.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://www.openshading.com/"
+    }
+}

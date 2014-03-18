@@ -1,0 +1,28 @@
+
+{
+    "name":"cortex",
+    "description": "You can clone with HTTPS or Subversion.
+
+Libraries for visual effects software development.",
+
+    "keywords": [
+        "visual effects",
+        "framework",
+        "cortex"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ImageEngine/cortex.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "image-engine.com":"http://www.image-engine.com/"
+    }
+}

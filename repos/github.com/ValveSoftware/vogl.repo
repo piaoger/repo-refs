@@ -1,16 +1,17 @@
 
 {
-    "name":"ToGL",
-    "description": "Direct3D to OpenGL abstraction layer",
+    "name":"vogl",
+    "description": "OpenGL capture / playback debugger.",
 
     "keywords": [
-        "Direct3D",
+        "capture",
+        "replay",
         "OpenGL"
     ],
 
     "repository": {
         "type": "git",
-        "url": "https://github.com/ValveSoftware/ToGL.git",
+        "url": "https://github.com/ValveSoftware/vogl.git",
 
         "branches": [
             "master"
