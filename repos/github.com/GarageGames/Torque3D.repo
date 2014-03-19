@@ -1,0 +1,24 @@
+{
+    "name":"Torque3D",
+    "description": "MIT Licensed Open Source version of Torque 3D from GarageGames.",
+
+    "keywords": [
+        "game",
+        "3d",
+        "engine"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GarageGames/Torque3D.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+    ]
+}
