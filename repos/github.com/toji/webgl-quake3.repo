@@ -1,0 +1,27 @@
+{
+    "name":"webgl-quake3",
+    "description": "WebGL Quake 3 level renderer.",
+
+    "keywords": [
+        "javascript",
+        "webgl",
+        "Quake 3"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/toji/webgl-quake3.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://media.tojicode.com/q3bsp"
+    }
+}
+
+

@@ -1,0 +1,23 @@
+{
+    "name":"g3d",
+    "description": "JavaScript 3D library.",
+
+    "keywords": [
+        "graphics",
+        "javascript"
+    ],
+
+    "repository": {
+        "type": "svn",
+        "url": "svn://svn.code.sf.net/p/g3d/code/ g3d-code",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

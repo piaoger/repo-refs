@@ -1,0 +1,28 @@
+{
+    "name":"webgl-texture-utils",
+    "description": "Utilities for working with WebGL textures with an emphasis on loading compressed formats.",
+
+    "keywords": [
+        "javascript",
+        "texture",
+        "webgl"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/toji/webgl-texture-utils.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://glmatrix.net",
+        "Crunch texture compression library":"http://code.google.com/p/crunch/"
+    }
+}
+
+

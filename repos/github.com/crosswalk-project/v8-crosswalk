@@ -1,0 +1,29 @@
+
+{
+    "name":"v8-crosswalk",
+    "description": "Supports SIMD instructions on v8.",
+
+    "keywords": [
+        "crosswalk",
+        "intel",
+        "Chromium",
+        "runtime"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/crosswalk/v8-crosswalk.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "hhttp://crosswalk-project.org",
+        "Intel Open Source Technology Center": "http://www.01.org/",
+        "Wiki": "http://crosswalk-project.org/#wiki"
+    }
+}

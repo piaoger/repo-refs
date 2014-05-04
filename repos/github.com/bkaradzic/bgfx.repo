@@ -1,0 +1,26 @@
+
+{
+    "name":"bgfx",
+    "description": "Cross-platform rendering library.",
+
+    "keywords": [
+        "rendering",
+        "emscripten",
+        "android",
+        "cross platform"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bkaradzic/bgfx.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

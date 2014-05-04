@@ -1,0 +1,26 @@
+{
+    "name":"appleseed",
+    "description": "appleseed is a modern, physically-based production renderer. ",
+
+    "keywords": [
+        "renderer",
+        "physically based"
+    ],
+
+    "license": "MIT",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/appleseedhq/appleseed.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://appleseedhq.net"
+    }
+}

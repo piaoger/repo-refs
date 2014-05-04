@@ -1,0 +1,23 @@
+{
+    "name":"ecmascript_simd",
+    "description": "SIMD numeric type for EcmaScript.",
+
+    "keywords": [
+        "javascript",
+        "simd"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/johnmccutchan/ecmascript_simd.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+    ]
+}

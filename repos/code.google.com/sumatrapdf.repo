@@ -1,0 +1,24 @@
+{
+    "name":"sumatrapdf",
+    "description": "PDF, EPUB, MOBI, CHM, XPS, DjVu, CBZ and CBR viewer for Windows",
+    "license": "GNU GPL v2",
+
+    "keywords": [
+        "pdf",
+        "windows"
+    ],
+
+    "repository": {
+        "type": "svn",
+        "url": "http://sumatrapdf.googlecode.com/svn/trunk/",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+    ]
+}

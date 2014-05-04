@@ -1,0 +1,23 @@
+
+{
+    "name":"bx",
+    "description": "Collection of .h snippets used across multiple projects (a.k.a. base library).",
+
+    "keywords": [
+        "base"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bkaradzic/bx.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

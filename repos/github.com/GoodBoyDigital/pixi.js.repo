@@ -1,0 +1,26 @@
+
+{
+    "name":"pixi.js",
+    "description": "Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.",
+
+    "keywords": [
+        "WebGL",
+        "Canvas",
+        "2d"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GoodBoyDigital/pixi.js.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.goodboydigital.com/blog/"
+    }
+}

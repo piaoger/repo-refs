@@ -1,0 +1,22 @@
+{
+    "name":"ioq3",
+    "description": "The ioquake3 community effort to continue supporting/developing id's Quake III Arena.",
+
+    "keywords": [
+        "Quake III"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ioquake/ioq3.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+    ]
+}

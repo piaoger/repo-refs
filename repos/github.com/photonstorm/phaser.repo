@@ -1,0 +1,26 @@
+{
+    "name":"phaser",
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+
+    "keywords": [
+        "javascript",
+        "game",
+        "engine",
+        "WebGL"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/photonstorm/phaser.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://phaser.io/"
+    }
+}

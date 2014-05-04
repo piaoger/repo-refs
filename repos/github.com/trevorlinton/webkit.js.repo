@@ -1,0 +1,23 @@
+{
+    "name":"webkit.js",
+    "description": "Pure JavaScript Port of WebKit.",
+
+    "keywords": [
+        "emscripten",
+        "webkit"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/trevorlinton/webkit.js.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

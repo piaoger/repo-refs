@@ -1,0 +1,25 @@
+
+{
+    "name":"heekscnc",
+    "description": "Cyclone (Circuit Cloner) is a CNC mill intended for PCB manufacturing.",
+
+    "keywords": [
+        "cnc",
+        "pcb"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/carlosgs/Cyclone-PCB-Factory.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://carlosgs.es"
+    }
+}

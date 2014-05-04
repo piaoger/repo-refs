@@ -1,0 +1,24 @@
+{
+    "name":"stepcode",
+    "description": "STEPcode (formerly NIST's STEP Class Library) is used with IFC, STEP, and other standards that utilize the technologies of ISO10303 (STEP).",
+    "license": "BSD",
+
+    "keywords": [
+        "step"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "hhttps://github.com/stepcode/stepcode.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage"：“http://stepcode.org”
+    ]
+}

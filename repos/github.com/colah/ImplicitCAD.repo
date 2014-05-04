@@ -1,6 +1,6 @@
 
 {
-    "name":"heekscnc",
+    "name":"ImplicitCAD",
     "description": "A math-inspired CAD program in haskell",
 
     "keywords": [

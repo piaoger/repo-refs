@@ -1,0 +1,23 @@
+{
+    "name":"hex",
+    "description": "A fast,scalable,distributed game server framework for Node.js.",
+
+    "keywords": [
+        "cef"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/netease-youdao/hex.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://hex.youdao.com"
+    }
+}

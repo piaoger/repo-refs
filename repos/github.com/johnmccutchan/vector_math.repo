@@ -1,0 +1,23 @@
+{
+    "name":"vector_math",
+    "description": "A Vector math library for 2D and 3D applications.",
+
+    "keywords": [
+        "javascript",
+        "vector math"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/johnmccutchan/vector_math.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+    ]
+}

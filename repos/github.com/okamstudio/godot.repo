@@ -1,0 +1,23 @@
+{
+    "name":"godot",
+    "description": "Godot is a fully featured, open source, MIT licensed, game engine.",
+
+    "keywords": [
+        "game engine"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/okamstudio/godot.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://www.okamstudio.com/"
+    }
+}
