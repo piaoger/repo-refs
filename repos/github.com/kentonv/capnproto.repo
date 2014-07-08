@@ -1,15 +1,14 @@
 {
-    "name":"jquery",
-    "description": "Node.js native add-ons in C",
+    "name":"capnproto",
+    "description": "Cap'n Proto serialization/RPC system",
 
     "keywords": [
-        "jquery",
-        "javascript"
+        "serialization"
     ],
 
     "repository": {
         "type": "git",
-        "url": "https://github.com/jquery/jquery.git",
+        "url": "https://github.com/kentonv/capnproto.git",
 
         "branches": [
             "master"

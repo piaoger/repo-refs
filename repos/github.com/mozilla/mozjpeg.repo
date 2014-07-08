@@ -18,8 +18,7 @@
     },
 
     "linkes": {
-        "blog":"https://blog.mozilla.org/research/2014/03/05/introducing-the-mozjpeg-project/",
-        "jpeg-turbo":"http://libjpeg-turbo.virtualgl.org/",
-
+        "blog": "https://blog.mozilla.org/research/2014/03/05/introducing-the-mozjpeg-project/",
+        "jpeg-turbo": "http://libjpeg-turbo.virtualgl.org/"
     }
 }

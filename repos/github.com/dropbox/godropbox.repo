@@ -1,0 +1,23 @@
+{
+    "name":"godropbox",
+    "description": "Common libraries for writing Go services applications.",
+
+    "keywords": [
+        "dropbox",
+        "Go"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dropbox/godropbox.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

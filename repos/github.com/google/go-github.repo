@@ -18,8 +18,8 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "Github API": "http://developer.github.com/v3/",
         "Document"：“http://godoc.org/github.com/google/go-github/github”
-    ]
+    }
 }

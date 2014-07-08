@@ -1,0 +1,24 @@
+{
+    "name":"ruby-c-extension-examples",
+    "description": "Ruby C extension examples.",
+
+    "keywords": [
+        "sketchup",
+        "c",
+        "extension"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SketchUp/ruby-c-extension-examples.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

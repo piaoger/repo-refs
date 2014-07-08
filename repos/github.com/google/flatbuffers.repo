@@ -1,0 +1,23 @@
+{
+    "name":"flatbuffers",
+    "description": "FlatBuffers is a serialization library for games and other memory constrained apps.",
+
+    "keywords": [
+        "serialization"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google/flatbuffers.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Document": "http://google.github.io/flatbuffers"
+    }
+}
