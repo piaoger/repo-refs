@@ -1,0 +1,22 @@
+{
+    "name":"RakNet",
+    "description": "RakNet is a cross platform, open source, C++ networking engine for game programmers.",
+
+    "keywords": [
+        "game engine"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OculusVR/RakNet.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

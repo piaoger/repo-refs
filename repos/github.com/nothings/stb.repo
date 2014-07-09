@@ -1,0 +1,24 @@
+{
+    "name":"stb",
+    "description": "stb single-file public domain libraries for C/C++.",
+
+    "keywords": [
+        "stb_image",
+        "stb_truetype"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nothings/stb.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Home page": "https://developer.nvidia.com/gameworks-opengl-samples"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name":"OpenGLSamples",
+    "description": "Cross-platform OpenGL and OpenGL ES samples (for Windows, Android, and Linux).",
+
+    "keywords": [
+        "opengl"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NVIDIAGameWorks/OpenGLSamples.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Home page": "https://developer.nvidia.com/gameworks-opengl-samples"
+    ]
+}

@@ -1,16 +1,14 @@
 {
     "name":"npm",
-    "description": "Google container stack, which provides Linux application containers.",
+    "description": "A package manager for node.",
 
     "keywords": [
-        "c++",
-        "linux",
-        "container"
+        "node.js"
     ],
 
     "repository": {
         "type": "git",
-        "url": "https://github.com/google/lmctfy.git",
+        "url": "https://github.com/npm/npm.git",
 
         "branches": [
             "master"
@@ -20,7 +18,6 @@
     },
 
     "linkes": [
-        "Github API": "http://developer.github.com/v3/",
-        "Document"：“http://godoc.org/github.com/google/go-github/github”
+        "Home page": "http://npmjs.org/"
     ]
 }

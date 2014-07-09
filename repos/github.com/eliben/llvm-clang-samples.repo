@@ -1,0 +1,23 @@
+{
+    "name":"llvm-clang-samples",
+    "description": "Examples of using the LLVM and Clang compilation libraries and tools.",
+
+    "keywords": [
+        "clang",
+        "llvm"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eliben/llvm-clang-samples.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}
