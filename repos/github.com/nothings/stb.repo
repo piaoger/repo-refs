@@ -18,7 +18,7 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "Home page": "https://developer.nvidia.com/gameworks-opengl-samples"
-    ]
+    }
 }

@@ -1,0 +1,27 @@
+{
+    "name":"nodebox",
+    "description": "An new software application for creating generative art using procedural graphics and a new way to approach graphic design.",
+
+    "keywords": [
+        "generative",
+        "procedural",
+        "clojure",
+        "python"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nodebox/nodebox.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Home page": "http://www.emrg.be",
+        "Project Page": "http://nodebox.net/"
+    }
+}
