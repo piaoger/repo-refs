@@ -1,0 +1,23 @@
+{
+    "name":"ejoy2d",
+    "description": "A 2d game engine in mobile.",
+
+    "keywords": [
+        "Design Script"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ejoy/ejoy2d.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.ejoy.com"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name":"nanosvg",
+    "description": "Simple stupid SVG parser.",
+
+    "keywords": [
+        "SVG"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/memononen/nanosvg.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

@@ -18,7 +18,7 @@
         ]
     },
 
-    "linkes": [
-        "http://v8dotnet.codeplex.com/"
+    "linkes": {
+        "Homepage":"http://v8dotnet.codeplex.com/"
     ]
 }

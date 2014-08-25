@@ -1,0 +1,23 @@
+{
+    "name":"nanovg",
+    "description": "Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.",
+
+    "keywords": [
+        "OpenGL",
+        "UI"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/memononen/nanovg.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

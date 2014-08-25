@@ -1,0 +1,27 @@
+{
+    "name":"Space_Partitioning_Octree_BVH",
+    "description": "Octree/BVH: building and traversal (for fast ray-triangle-intersection). ",
+
+    "keywords": [
+        "octree",
+        "bvh",
+        "ray tracing"
+    ],
+
+    "license": "GPL",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/diwi/Space_Partitioning_Octree_BVH.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://thomasdiewald.com/blog/?p=1488"
+    }
+}

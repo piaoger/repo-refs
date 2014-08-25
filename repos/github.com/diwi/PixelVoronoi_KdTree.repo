@@ -1,0 +1,26 @@
+{
+    "name":"PixelVoronoi_KdTree",
+    "description": "Kd-Tree Nearest Neighbor Search using WebGL. ",
+
+    "keywords": [
+        "kdtree",
+        "voronoi"
+    ],
+
+    "license": "GPL",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/diwi/PixelVoronoi_KdTree.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://thomasdiewald.com/javascript/webgl/PixelVoronoi_KdTree_v05/"
+    }
+}

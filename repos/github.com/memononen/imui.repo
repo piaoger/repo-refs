@@ -1,0 +1,23 @@
+{
+    "name":"imui",
+    "description": "HTML-ish, CSS-ish, IMGUI-ish attempt for an UI library in C",
+
+    "keywords": [
+        "libtess2",
+        "JavaScript"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/memononen/imui.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

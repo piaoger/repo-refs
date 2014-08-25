@@ -1,0 +1,25 @@
+{
+    "name":"seen",
+    "description": "Render 3D scenes into SVG or HTML5 Canvas.",
+
+    "keywords": [
+        "3D",
+        "svg",
+        "canvas"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/themadcreator/seen.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://seenjs.io"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name":"SDF",
+    "description": "Signed Distance Field Builder for Contour Texturing",
+
+    "keywords": [
+        "Distance Field",
+        "Texture"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/memononen/SDF.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

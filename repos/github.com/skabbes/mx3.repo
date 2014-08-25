@@ -1,0 +1,24 @@
+{
+    "name":"mx3",
+    "description": "a sample project showcasing/collecting cross platform techniques on mobile.",
+
+    "keywords": [
+        "mobile",
+        "cross platform"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skabbes/mx3.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+
+    }
+}

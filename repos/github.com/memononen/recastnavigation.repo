@@ -1,0 +1,22 @@
+{
+    "name":"recastnavigation",
+    "description": "Navigation-mesh Toolset for Games.",
+
+    "keywords": [
+        "navmesh"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/memononen/recastnavigation.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

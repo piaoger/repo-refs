@@ -19,8 +19,8 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "Homepage":"http://toxiclibs.org/",
         "processing":"http://processing.org/"
-    ]
+    }
 }

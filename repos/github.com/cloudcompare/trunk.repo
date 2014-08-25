@@ -1,0 +1,27 @@
+
+{
+    "name":"trunk",
+    "description": "CloudCompare is a 3D point cloud (and triangular mesh) processing software.",
+
+    "keywords": [
+        "cloudcompare",
+        "point cloud",
+        "trimesh"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cloudcompare/trunk.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.cloudcompare.org/",
+        "wiki page":"http://en.wikipedia.org/wiki/CloudCompare"
+    }
+}

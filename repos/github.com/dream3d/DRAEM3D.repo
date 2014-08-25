@@ -1,0 +1,23 @@
+{
+    "name":"DREAM3D",
+    "description": "The main DREAM3D source code repository.",
+
+    "keywords": [
+        "Volume mesh"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dream3d/DREAM3D.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://dream3d.bluequartz.net/”
+    }
+}

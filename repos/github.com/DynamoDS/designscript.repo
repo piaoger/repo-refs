@@ -1,0 +1,23 @@
+{
+    "name":"designscript",
+    "description": "DesignScript is a novel langauge for exploratory design and a custom virtual machine designed to support the novel features of the language.",
+
+    "keywords": [
+        "Design Script"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DynamoDS/designscript.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://dynamobim.org”
+    }
+}

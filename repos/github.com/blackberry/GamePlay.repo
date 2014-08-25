@@ -1,0 +1,24 @@
+{
+    "name":"GamePlay",
+    "description": "Open-source, cross-platform 3D native C++ game framework making it easy to create mobile and desktop games.",
+
+    "keywords": [
+        "game engine",
+        "c++"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/blackberry/GamePlay.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://www.gameplay3d.org”
+    }
+}

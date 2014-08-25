@@ -1,0 +1,28 @@
+{
+    "name":"MEPP",
+    "description": "Mepp - 3D MEsh Processing Platform.",
+
+    "keywords": [
+        "mesh",
+        "simplification",
+        "boolean",
+        "remesh",
+        "subdivision"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MEPP-team/MEPP.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://liris.cnrs.fr/mepp/",
+        "Exact and Efficient Booleans for Polyhedra":"http://liris.cnrs.fr/Documents/Liris-4883.pdf"
+    }
+}

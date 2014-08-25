@@ -1,7 +1,7 @@
 
 {
     "name":"ImplicitCAD",
-    "description": "A math-inspired CAD program in haskell",
+    "description": "A math-inspired CAD program in haskell.",
 
     "keywords": [
         "openscad",

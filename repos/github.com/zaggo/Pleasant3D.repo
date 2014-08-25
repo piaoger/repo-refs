@@ -1,0 +1,25 @@
+{
+    "name":"Pleasant3D",
+    "description": "A useful utility that displays STL and GCode files.",
+
+    "keywords": [
+        "stl",
+        "gcode",
+        "viewer"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zaggo/Pleasant3D.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://pleasantsoftware.com/developer/pleasant3d/"
+    }
+}

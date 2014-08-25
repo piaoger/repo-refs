@@ -1,0 +1,26 @@
+
+{
+    "name":"syncthing",
+    "description": "Open Source Continuous Replication / Cluster Synchronization Thing.",
+
+    "keywords": [
+        "Dropbox",
+        "BitTorrent Sync",
+        "decentralization"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/calmh/syncthing.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://discourse.syncthing.net/"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name":"milligui",
+    "description": "yet another imgui library.",
+
+    "keywords": [
+        "imgui"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/memononen/milligui.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

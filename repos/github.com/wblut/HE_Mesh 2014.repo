@@ -1,0 +1,24 @@
+{
+    "name":"HE_Mesh2014",
+    "description": "A Java library for creating and manipulating polygonal meshes. Aimed primarily at Processing 2",
+
+    "keywords": [
+        "Processing",
+        "hemesh"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wblut/HE_Mesh2014.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://www.wblut.com/"
+    }
+}

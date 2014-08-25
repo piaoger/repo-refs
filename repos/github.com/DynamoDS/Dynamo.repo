@@ -1,0 +1,23 @@
+{
+    "name":"Dynamo",
+    "description": "Visual Programming For Revit.",
+
+    "keywords": [
+        "Design Script"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DynamoDS/Dynamo.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://dynamobim.org”
+    }
+}

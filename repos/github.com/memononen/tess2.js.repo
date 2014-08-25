@@ -1,0 +1,23 @@
+{
+    "name":"tess2.js",
+    "description": "GLU tesselator ported to Javascript, performs polygon boolean operations and triangulation. ",
+
+    "keywords": [
+        "libtess2",
+        "JavaScript"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/memononen/tess2.js.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

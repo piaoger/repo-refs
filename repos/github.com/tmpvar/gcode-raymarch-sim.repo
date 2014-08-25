@@ -1,0 +1,25 @@
+{
+    "name":"gcode-raymarch-sim",
+    "description": "experimenting with a raymarching approach for gcode simulation.",
+
+    "keywords": [
+        "gcode",
+        "ray marching"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tmpvar/gcode-raymarch-sim.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}
+
+

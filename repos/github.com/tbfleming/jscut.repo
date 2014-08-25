@@ -1,0 +1,24 @@
+{
+    "name":"jscut",
+    "description": "A in-browser CAM package.",
+
+    "keywords": [
+        "CAM",
+        "GCode"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tbfleming/jscut.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://jscut.org"
+    }
+}

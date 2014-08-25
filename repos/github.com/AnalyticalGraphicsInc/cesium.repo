@@ -1,0 +1,24 @@
+{
+    "name":"cesium",
+    "description": "WebGL virtual globe and map engine.",
+
+    "keywords": [
+        "WebGL",
+        "map"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://cesiumjs.org"
+    }
+}

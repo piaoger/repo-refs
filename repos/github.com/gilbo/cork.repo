@@ -1,0 +1,24 @@
+{
+    "name":"cork",
+    "description": "3D Boolean / CSG Library. Cork is designed to support Boolean operations between triangle meshes.",
+
+    "keywords": [
+        "CSG",
+        "Mesh Boolean"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gilbo/cork.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://www.gilbertbernstein.com/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name":"libtess2",
+    "description": "Game and tools oriented refactored version of GLU tesselator.",
+
+    "keywords": [
+        "tesselation",
+        "polygon"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/memononen/libtess2.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

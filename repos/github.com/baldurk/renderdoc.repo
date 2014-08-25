@@ -1,0 +1,25 @@
+{
+    "name":"renderdoc",
+    "description": "RenderDoc is a stand-alone graphics debugging tool developed by Crytek.",
+
+    "keywords": [
+        "debugger",
+        "cryengine"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/baldurk/renderdoc.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": [
+        "Homepage":"http://cryengine.com/renderdoc",
+        "VOGL":"https://github.com/ValveSoftware/vogl"
+    ]
+}

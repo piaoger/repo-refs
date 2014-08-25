@@ -1,0 +1,24 @@
+{
+    "name":"Leaflet",
+    "description": "JavaScript library for mobile-friendly interactive maps.",
+
+    "keywords": [
+        "Mapbox",
+        "JavaScript"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Leaflet/Leaflet.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://leafletjs.com"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name":"skynet",
+    "description": "A lightweight online game framework.",
+
+    "keywords": [
+        "lua",
+        "gmae",
+        "framework"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cloudwu/skynet.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "https://github.com/cloudwu/skynet/wiki"
+    }
+}
