@@ -19,8 +19,8 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "bsp":"http://en.wikipedia.org/wiki/Binary_space_partitioning",
         "github 3d diff":"https://github.com/blog/1633-3d-file-diffs"
-    ]
+    }
 }

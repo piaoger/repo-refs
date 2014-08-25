@@ -19,9 +19,9 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "Homepage"：“http://stephaneginier.com/sculptgl/”,
         "Sketchfab":"http://sculptfab.com/",
         "meet stephane":"http://blog.sketchfab.com/post/74174910390/meet-stephane-creator-of-sculptgl"
-    ]
+    }
 }

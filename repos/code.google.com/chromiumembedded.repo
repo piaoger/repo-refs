@@ -23,8 +23,8 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "http://www.magpcss.org/ceforum/",
         "http://code.google.com/p/chromiumembedded/"
-    ]
+    }
 }

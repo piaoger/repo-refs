@@ -21,7 +21,7 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "https://code.google.com/p/cproxyv8/"
-    ]
+    }
 }

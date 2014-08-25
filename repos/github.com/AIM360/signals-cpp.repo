@@ -19,7 +19,7 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "Origin":"https://github.com/Kosta-Github/signals-cpp"
-    ]
+    }
 }

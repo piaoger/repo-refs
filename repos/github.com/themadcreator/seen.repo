@@ -19,7 +19,7 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "Homepage":"http://seenjs.io"
-    ]
+    }
 }

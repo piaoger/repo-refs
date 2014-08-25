@@ -17,9 +17,9 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "http://code.google.com/p/v8/",
         "https://developers.google.com/v8/intro",
         "https://developers.google.com/v8/embed"
-    ]
+    }
 }

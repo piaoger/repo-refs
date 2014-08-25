@@ -18,8 +18,8 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "Homepage":"http://www.anderswallin.net/cam/",
         "openscam":"http://openscam.com/"
-    ]
+    }
 }

@@ -19,7 +19,7 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
        "Homepage": "https://gitorious.org/qt"
-    ]
+    }
 }

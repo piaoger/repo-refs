@@ -17,8 +17,8 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "https://gitorious.org/qhull",
         "http://www.qhull.org/"
-    ]
+    }
 }

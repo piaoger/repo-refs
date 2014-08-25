@@ -18,8 +18,8 @@
         ]
     },
 
-    "linkes": [
-        "Homepage":"http://cryengine.com/renderdoc",
+    "linkes": {
+        "Home page":"http://cryengine.com/renderdoc",
         "VOGL":"https://github.com/ValveSoftware/vogl"
-    ]
+    }
 }

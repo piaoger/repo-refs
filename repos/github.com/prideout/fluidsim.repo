@@ -18,8 +18,8 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "Homepage": "http://prideout.net",
         "demo":"http://vimeo.com/20863998"
-    ]
+    }
 }

@@ -18,8 +18,8 @@
         ]
     },
 
-    "linkes": [
+    "linkes": {
         "Homepage": "http://prideout.net",
         "Introduction":"http://github.prideout.net/quad-meshes/"
-    ]
+    }
 }
