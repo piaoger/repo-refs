@@ -1,0 +1,24 @@
+{
+    "name":"turbulenz_engine",
+    "description": "Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.",
+
+    "keywords": [
+        "game engine"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/turbulenz/turbulenz_engine.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://turbulenz.com"
+    }
+
+}

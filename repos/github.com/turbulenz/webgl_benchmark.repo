@@ -1,0 +1,24 @@
+{
+    "name":"webgl_benchmark",
+    "description": "Polycraft.gl is an online benchmark application that measures the performance of your WebGL compatible device, powered by Polycraft and ga.me.",
+
+    "keywords": [
+        "webgl benchmark"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/turbulenz/webgl_benchmark.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://polycraft.gl"
+    }
+
+}

@@ -1,6 +1,6 @@
 {
-    "name":"Drawpile",
-    "description": "A collaborative drawing program.",
+    "name":"stud",
+    "description": "The Scalable TLS Unwrapping Daemon.",
 
     "keywords": [
         "collaborative",
@@ -9,7 +9,7 @@
 
     "repository": {
         "type": "git",
-        "url": "https://github.com/callaa/Drawpile.git",
+        "url": "https://github.com/dumptech/stud.git",
 
         "branches": [
             "master"
