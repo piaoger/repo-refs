@@ -1,0 +1,24 @@
+{
+    "name":"geode",
+    "description": "A computational geometry library for C++ and Python.",
+
+    "keywords": [
+        "geometry library"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/otherlab/geode.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"https://otherlab.com",
+        "physbam":http://physbam.stanford.edu/""
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name":"node-ffi",
+    "description": "Node.js Foreign Function Interface.",
+
+    "keywords": [
+        "node.js",
+        "addon"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/node-ffi/node-ffi.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}
