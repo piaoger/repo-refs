@@ -1,0 +1,23 @@
+{
+    "name":"yohub",
+    "description": "A lightweight asynchronous event-driven network application framework in C++. ",
+
+    "keywords": [
+        "sync"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kedebug/yohub.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    	"blog":"http://kedebug.com/"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name":"cling",
+    "description": "Cling is an interactive C++ interpreter, built on top of Clang and LLVM compiler infrastructure.
+",
+
+    "keywords": [
+        "c++ interpreter",
+        "llvm",
+        "clang"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vgvassilev/cling.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Home page": "http://cling.web.cern.ch/"
+    }
+}
+

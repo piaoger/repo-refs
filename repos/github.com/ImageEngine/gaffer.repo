@@ -1,4 +1,3 @@
-
 {
     "name":"gaffer",
     "description": "Gaffer is an open source application framework designed specifically for creating tools for use in visual effects production.",
@@ -21,7 +20,7 @@
     },
 
     "linkes": {
-        "image-engine.com":"http://www.image-engine.com/"
-        "Homepage":http://imageengine.github.io/gaffer"
+        "image-engine.com": "http://www.image-engine.com/"
+        "Homepage": "http://imageengine.github.io/gaffer"
     }
 }
