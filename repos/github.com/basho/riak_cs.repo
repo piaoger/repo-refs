@@ -1,0 +1,24 @@
+{
+    "name":"riak_cs",
+    "description": "S3 Api compatiable Riak Clond Storage",
+
+    "keywords": [
+        "s3 api compatiability",
+        "riak"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/basho/riak_cs.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.basho.com"
+    }
+}

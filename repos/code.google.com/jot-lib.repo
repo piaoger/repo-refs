@@ -1,0 +1,27 @@
+{
+    "name":"jot-lib",
+    "description": "C++ libraries for 3D graphics, especially NPR.",
+
+    "keywords": [
+        "npr",
+        "graphics",
+        "Free-form Sketch",
+        "Stylized Silhouettes"
+    ],
+
+    "repository": {
+        "type": "svn",
+        "url": "http://jot-lib.googlecode.com/svn/trunk/",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage" : "https://code.google.com/p/jot-lib/",
+        "Dynamic 2D Patterns for Shading 3D Scenes":"http://vimeo.com/11022556"
+    }
+}

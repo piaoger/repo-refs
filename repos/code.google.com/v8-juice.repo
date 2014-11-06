@@ -1,5 +1,5 @@
 {
-    "name":"alembic",
+    "name":"v8-juice",
     "description": "C++ toolkit for extending the Google v8 JavaScript engine",
     "license": "New BSD License",
 

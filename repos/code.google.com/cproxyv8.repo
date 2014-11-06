@@ -1,5 +1,5 @@
 {
-    "name":"alembic",
+    "name":"cproxyv8",
     "description": "CProxyV8 provide an easy way to expose properties and methods from C++ classes to Java Script using V8 engine",
     "license": "New BSD License",
 

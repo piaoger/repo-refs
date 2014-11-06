@@ -20,8 +20,8 @@
         ]
     },
 
-    "linkes": [
-        "http://www.abfab3d.com"，
-        “http://shapejs.shapeways.com/“
-    ]
+    "linkes": {
+       "Homepage": "http://www.abfab3d.com",
+       "ShapeJs": "http://shapejs.shapeways.com/""
+    }
 }

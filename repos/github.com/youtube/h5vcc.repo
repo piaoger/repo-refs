@@ -1,0 +1,21 @@
+{
+    "name":"h5vcc",
+    "description": "A muminimal build of WebKit and Chromium sufficient to render an HTML5 video container for game consoles.",
+
+    "keywords": [
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/youtube/h5vcc.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name":"rosswalk-apk-generator",
+    "description": "A generator for Crosswalk Android application packages.",
+
+    "keywords": [
+        "crosswalk",
+        "intel",
+        "Chromium",
+        "runtime"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/crosswalk/rosswalk-apk-generator.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "hhttp://crosswalk-project.org",
+        "Intel Open Source Technology Center": "http://www.01.org/",
+        "Wiki": "http://crosswalk-project.org/#wiki"
+    }
+}

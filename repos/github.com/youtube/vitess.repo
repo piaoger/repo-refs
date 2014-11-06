@@ -1,0 +1,24 @@
+{
+    "name":"vitess",
+    "description": "vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+",
+
+    "keywords": [
+        "mysql",
+        "go"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/youtube/vitess.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}
