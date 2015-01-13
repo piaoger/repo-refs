@@ -17,9 +17,9 @@
         ]
     },
 
-    "linkes": {
-        "http://code.google.com/p/v8/",
-        "https://developers.google.com/v8/intro",
-        "https://developers.google.com/v8/embed"
+    "links": {
+        "Homepage":"http://code.google.com/p/v8/",
+        "introduction":"https://developers.google.com/v8/intro",
+        "embed v8":https://developers.google.com/v8/embed"
     }
 }

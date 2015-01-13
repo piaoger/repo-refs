@@ -19,7 +19,7 @@
         ]
     },
 
-    "linkes": {
+    "links": {
         "Homepage": "http://glmatrix.net",
         "Crunch texture compression library":"http://code.google.com/p/crunch/"
     }

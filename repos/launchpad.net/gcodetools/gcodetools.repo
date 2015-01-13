@@ -17,7 +17,7 @@
         ]
     },
 
-    "linkes": {
+    "links": {
         "Homepage": "http://www.cnc-club.ru/gcodetools",
         "source": "https://code.launchpad.net/gcodetools"
     }

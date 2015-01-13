@@ -1,0 +1,23 @@
+{
+    "name":"glutin",
+    "description": "Pure Rust alternative to GLFW .",
+
+    "keywords": [
+        "rust",
+        "graphics"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tomaka/glutin.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "links": {
+    }
+}

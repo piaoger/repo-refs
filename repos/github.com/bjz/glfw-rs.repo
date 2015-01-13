@@ -1,0 +1,25 @@
+
+{
+    "name":"glfw-rs",
+    "description": "GLFW3 bindings and idiomatic wrapper for Rust. ",
+
+    "keywords": [
+        "rust",
+        "OpenGL",
+        "glfw"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bjz/glfw-rs.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "links": {
+    }
+}

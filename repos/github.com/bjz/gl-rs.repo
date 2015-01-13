@@ -1,0 +1,25 @@
+
+{
+    "name":"gl-rs",
+    "description": "An OpenGL function pointer loader for Rust.",
+
+    "keywords": [
+        "rust",
+        "OpenGL",
+        "loader"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bjz/gl-rs.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "links": {
+    }
+}

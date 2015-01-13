@@ -19,7 +19,7 @@
         ]
     },
 
-    "linkes": [
-        "http://brackets.io"
-    ]
+    "links": {
+        "Homepage":"http://brackets.io"
+    }
 }

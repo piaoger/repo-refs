@@ -20,7 +20,7 @@
         ]
     },
 
-    "linkes": {
+    "links": {
         "Origin":"https://github.com/AFNetworking/AFNetworking"
     }
 }

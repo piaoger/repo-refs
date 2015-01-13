@@ -1,0 +1,24 @@
+{
+    "name":"cargo-emscripten",
+    "description": "Experiments with Rust and Emscripten.",
+
+    "keywords": [
+        "rust",
+        "cargo",
+        "emscripten"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tomaka/cargo-emscripten.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "links": {
+    }
+}

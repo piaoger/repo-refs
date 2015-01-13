@@ -1,0 +1,24 @@
+
+{
+    "name":"noise-rs",
+    "description": "Procedural noise generation library for Rust.",
+
+    "keywords": [
+        "rust",
+        "noise"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bjz/noise-rs.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "links": {
+    }
+}

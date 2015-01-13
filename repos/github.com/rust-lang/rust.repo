@@ -1,0 +1,26 @@
+{
+    "name":"rust",
+    "description": "a safe, concurrent, practical language.",
+
+    "keywords": [
+        "mozilla",
+        "servo",
+        "safe",
+        "concurrency"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rust-lang/rust.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "links": {
+    	"Homepage":"http://www.rust-lang.org/"
+    }
+}

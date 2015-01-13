@@ -1,0 +1,25 @@
+{
+    "name":"embree-renderer",
+    "description": "Embree Example Renderer.",
+
+    "keywords": [
+        "raytracer",
+        "Intel"
+    ],
+
+    "license": "Apache",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/embree/embree-renderer.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "links": {
+    }
+}

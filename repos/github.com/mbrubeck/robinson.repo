@@ -1,0 +1,24 @@
+{
+    "name":"robinson",
+    "description": "A toy web rendering engine.",
+
+    "keywords": [
+        "browser",
+        "rust"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mbrubeck/robinson.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "links": {
+        "Homepage":"http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html"
+    }
+}

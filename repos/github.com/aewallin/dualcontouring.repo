@@ -18,8 +18,8 @@
         ]
     },
 
-    "linkes": [
+    "links": {
         "Homepage":"http://www.anderswallin.net/cam/",
         "dualcontouring":http://sourceforge.net/projects/dualcontouring/"
-    ]
+    }
 }

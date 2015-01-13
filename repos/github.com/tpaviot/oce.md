@@ -18,7 +18,7 @@
         ]
     },
 
-    "linkes": {
+    "links": {
         "Homepage": "http://tpaviot.github.io/oce/",
         "Open Cascade":"http://www.opencascade.org/"
     }
