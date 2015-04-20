@@ -1,0 +1,25 @@
+{
+    "name":"campskeleton",
+    "description": "weighted straight skeleton implementation in java.",
+
+    "keywords": [
+        "HMesh",
+        "skeleton",
+        "geometry"
+    ],
+
+    "repository": {
+        "type": "svn",
+        "url": "http://campskeleton.googlecode.com/svn/trunk/",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "links": {
+        "Home page": "http://code.google.com/p/campskeleton/"
+    }
+}
