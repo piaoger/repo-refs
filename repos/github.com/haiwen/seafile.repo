@@ -1,0 +1,26 @@
+{
+    "name":"seafile",
+    "description": "File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance.",
+
+    "keywords": [
+        "storage",
+        "file sync",
+        "dropbox",
+        "syncthing"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gorilla/context.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://seafile.com/"
+    }
+}

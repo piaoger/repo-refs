@@ -1,0 +1,27 @@
+{
+    "name":"go-getter",
+    "description": "Package for downloading things from a string URL using a variety of protocols.This library is used by Terraform for downloading modules, Otto for dependencies and Appfile imports, and Nomad for downloading binaries.",
+
+    "keywords": [
+        "go",
+        "s3",
+        "git",
+        "url",
+        "hg"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hashicorp/go-getter.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.hashicorp.com/"
+    }
+}

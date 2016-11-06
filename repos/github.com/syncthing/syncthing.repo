@@ -1,0 +1,25 @@
+{
+    "name":"syncthing",
+    "description": "Open Source Continuous File Synchronization.",
+
+    "keywords": [
+        "Dropbox",
+        "seafile",
+        "golang"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/syncthing/syncthing.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "links": {
+        "Homepage": "http://forum.syncthing.net/"
+    }
+}

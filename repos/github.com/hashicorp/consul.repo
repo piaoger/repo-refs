@@ -1,0 +1,23 @@
+{
+    "name":"consul",
+    "description": "Consul is a tool for service discovery, monitoring and configuration.",
+
+    "keywords": [
+        "go"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hashicorp/consul.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://www.consul.io/"
+    }
+}

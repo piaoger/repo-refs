@@ -1,0 +1,24 @@
+{
+    "name":"nomad",
+    "description": "A Distributed, Highly Available, Datacenter-Aware Scheduler.Nomad is a cluster manager, designed for both long lived services and short lived batch processing workloads.",
+
+    "keywords": [
+        "go",
+        "cluster manager"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hashicorp/nomad.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "https://www.nomadproject.io/"
+    }
+}

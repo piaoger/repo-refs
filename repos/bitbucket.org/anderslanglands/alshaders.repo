@@ -1,0 +1,22 @@
+{
+    "name":"alshaders",
+    "description": "alShaders provides a suite of shaders, procedural textures and utility nodes that forms a complete, production-oriented shader library for SolidAngle's Arnold renderer.",
+
+    "keywords": [
+        "shaders"
+    ],
+
+    "repository": {
+        "type": "hg",
+        "url": "https://bitbucket.org/anderslanglands/alshaders",
+
+        "branches": [
+            "default"
+        ],
+        "tags": [
+        ]
+    },
+
+    "links": {
+    }
+}

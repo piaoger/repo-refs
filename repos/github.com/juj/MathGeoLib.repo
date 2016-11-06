@@ -1,0 +1,26 @@
+{
+    "name":"MathGeoLib",
+    "description": "A C++ library for linear algebra and geometry manipulation for computer graphics.",
+
+    "keywords": [
+        "c++",
+        "simd",
+        "emscripten",
+        "nacl"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/juj/MathGeoLib.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    	"intruduction":"http://clb.demon.fi/MathGeoLib/"
+    }
+}

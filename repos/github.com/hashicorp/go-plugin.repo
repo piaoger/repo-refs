@@ -1,0 +1,24 @@
+
+{
+    "name":"go-plugin",
+    "description": "Golang plugin system over RPC over a local [reliable] network..",
+
+    "keywords": [
+        "go"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hashicorp/go-plugin.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "https://ottoproject.io/"
+    }
+}

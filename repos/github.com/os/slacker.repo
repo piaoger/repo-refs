@@ -1,0 +1,23 @@
+{
+    "name":"slacker",
+    "description": "Full-featured Python interface for the Slack API.",
+
+    "keywords": [
+        "slack",
+        "python"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/os/slacker.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+    }
+}

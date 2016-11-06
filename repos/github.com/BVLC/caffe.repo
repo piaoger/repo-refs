@@ -1,0 +1,24 @@
+{
+    "name":"caffe",
+    "description": "A fast open framework for deep learning.",
+
+    "keywords": [
+        "deep learning",
+        "c++"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BVLC/caffe.git",
+
+        "branches": [
+            "master"
+        ],
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage":"http://caffe.berkeleyvision.org/"
+    }
+}

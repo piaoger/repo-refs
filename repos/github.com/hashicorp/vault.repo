@@ -1,0 +1,24 @@
+
+{
+    "name":"vault",
+    "description": "A tool for managing secrets.",
+
+    "keywords": [
+        "go"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hashicorp/vault.git",
+
+        "branches": [
+            "master"
+        ],os
+        "tags": [
+        ]
+    },
+
+    "linkes": {
+        "Homepage": "http://vaultproject.io"
+    }
+}
